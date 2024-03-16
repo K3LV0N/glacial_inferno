@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "glacial_inferno", "glacial_inferno.csproj", "{288D94CA-F085-40A1-995A-0C2AE910ECB9}"
+=======
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "glacial_inferno", "glacial_inferno.csproj", "{4D79C365-EDE2-4001-83F2-EE3E97C346AB}"
+>>>>>>> main
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{288D94CA-F085-40A1-995A-0C2AE910ECB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288D94CA-F085-40A1-995A-0C2AE910ECB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288D94CA-F085-40A1-995A-0C2AE910ECB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288D94CA-F085-40A1-995A-0C2AE910ECB9}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
 		{4D79C365-EDE2-4001-83F2-EE3E97C346AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D79C365-EDE2-4001-83F2-EE3E97C346AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D79C365-EDE2-4001-83F2-EE3E97C346AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D79C365-EDE2-4001-83F2-EE3E97C346AB}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> main
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {F601F9C8-FFE3-41A9-AE7D-A96B6D022699}
+=======
 		SolutionGuid = {7B876038-A3EC-46D7-BC25-7CC6F720BF86}
+>>>>>>> main
 	EndGlobalSection
 EndGlobal

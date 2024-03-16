@@ -15,6 +15,20 @@ Items: {
 		Tooltip: A sword made of ice. Ice Shatters on impact.
 	}
 
+	IceSummon: {
+		DisplayName: Ice Summon
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	SnowballSummonBuff: {
+		DisplayName: Snowball Summon Buff
+		Description: Mods.glacial_inferno.Buffs.SnowballSummonBuff.Description
+	}
+}
+
+Projectiles.SnowballSummon.DisplayName: Snowball Summon
 	FrostBolt: {
 		DisplayName: Frost Bolt
 		Tooltip: Shoots frost bolts. Ice Shatters on impact.
